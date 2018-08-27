@@ -1,18 +1,13 @@
-import { StackNavigator } from 'react-navigation'
-import LaunchScreen from '../Containers/LaunchScreen'
-
-import styles from './Styles/NavigationStyles'
+import { StackNavigator } from 'react-navigation';
+import LaunchScreen from '../Containers/HomeScreen';
 
 // Manifest of possible screens
 const PrimaryNav = StackNavigator({
-  LaunchScreen: { screen: LaunchScreen }
+  HomeScreen: { screen: LaunchScreen },
 }, {
   // Default config for all screens
   headerMode: 'none',
-  initialRouteName: 'LaunchScreen',
-  navigationOptions: {
-    headerStyle: styles.header
-  }
-})
+  initialRouteName: 'HomeScreen',
+});
 
-export default PrimaryNav
+export default PrimaryNav;

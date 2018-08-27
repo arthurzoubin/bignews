@@ -1,0 +1,102 @@
+{
+  "status": "ok",
+  "totalResults": 8,
+  "articles": [
+    {
+      "source": {
+        "id": "theguardianau",
+        "name": "The Guardian (AU)"
+      },
+      "author": "Gareth Hutchens",
+      "title": "Dutton stays but no job for Abbott in Morrison's 'new generation' ministry",
+      "description": "New PM promotes Marise Payne to foreign affairs minister, Angus Taylor is energy minister and Barnaby Joyce is special envoy on drought",
+      "url": "https://www.theguardian.com/australianews/2018/aug/26/duttonstaysbutnojobforabbottinmorrisonsnewgenerationministry",
+      "urlToImage": "https://i.guim.co.uk/img/media/e917cbd3e8bac85a9ad7865c3e37aad120c85b52/0_371_5568_3341/master/5568.jpg?width=1200&height=630&quality=85&auto=format&usm=12&fit=crop&crop=faces%2Centropy&bm=normal&ba=bottom%2Cleft&blend64=aHR0cHM6Ly9hc3NldHMuZ3VpbS5jby51ay9pbWFnZXMvb3ZlcmxheXMvZDM1ODZhNWVmNTc4MTc1NmQyMWEzYjYzNWU1MTcxNDEvdGctZGVmYXVsdC5wbmc&s=c27754322502cde51d3b9e488a6e225d",
+      "publishedAt": "20180826T10:05:22Z"
+    },
+    {
+      "source": {
+        "id": "thenewyorktimes",
+        "name": "The New York Times"
+      },
+      "author": "https://www.nytimes.com/by/lancebooth",
+      "title": "John McCain, Michael Cohen, Pope Francis: Your Weekend Briefing",
+      "description": "Here’s what you need to know about the week’s top stories.",
+      "url": "https://www.nytimes.com/2018/08/26/briefing/michaelcohenpopefrancishawaii.html",
+      "urlToImage": "https://i.guim.co.uk/img/media/e917cbd3e8bac85a9ad7865c3e37aad120c85b52/0_371_5568_3341/master/5568.jpg?width=1200&height=630&quality=85&auto=format&usm=12&fit=crop&crop=faces%2Centropy&bm=normal&ba=bottom%2Cleft&blend64=aHR0cHM6Ly9hc3NldHMuZ3VpbS5jby51ay9pbWFnZXMvb3ZlcmxheXMvZDM1ODZhNWVmNTc4MTc1NmQyMWEzYjYzNWU1MTcxNDEvdGctZGVmYXVsdC5wbmc&s=c27754322502cde51d3b9e488a6e225d",
+      "publishedAt": "20180826T09:58:34Z"
+    },
+    {
+      "source": {
+        "id": "cbsnews",
+        "name": "CBS News"
+      },
+      "author": "CBS News",
+      "title": "Former Vatican official claims Pope Francis knew of abusive priest and calls for his resignation",
+      "description": "\"Pope Francis must be the first to set a good example to Cardinals and Bishops who covered up McCarrick's abuses and resign along with all of them,\" writes a former Vatican ambassador to Washington",
+      "url": "https://www.cbsnews.com/news/popefrancisknewofabusivepriestclaimsformervaticanofficialcarlomariavigano/",
+      "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/08/21/5264d3dd72e74af1a096baa622dfd29c/thumbnail/1200x630/bdfd6f68884b71ae63a84f90046b4e94/20180816t202102z2004670068rc1f7f403a40rtrmadp3pennsylvaniareligionvatican.jpg",
+      "publishedAt": "20180826T04:27:00Z"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Espn.com"
+      },
+      "author": null,
+      "title": "Jags' Marqise Lee injures knee, but teammates don't fault Falcons' Damontae Kazee",
+      "description": "Jacksonville coach Doug Marrone said that while the knee injury suffered by wide receiver Marqise Lee looked bad, the team won't know the severity of the injury until Sunday.",
+      "url": "http://www.espn.com/nfl/story/_/id/24477012/marqiseleejacksonvillejaguarsreceiversuffersleftkneeinjury",
+      "urlToImage": "http://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F0825%2Fr420166_1296x729_16%2D9.jpg",
+      "publishedAt": "20180826T03:56:15Z"
+    },
+    {
+      "source": {
+        "id": "thehuffingtonpost",
+        "name": "The Huffington Post"
+      },
+      "author": "María Elena Vizcaíno",
+      "title": "7 Arrested At Protests Over UNC's Toppled Confederate Statue",
+      "description": "Students toppled the Confederate monument, nicknamed Silent Sam, this week in Chapel Hill.",
+      "url": "https://www.huffingtonpost.com/entry/uncsilentsamconfederatestatuearrests_us_5b818c05e4b0729515136a9e",
+      "urlToImage": "https://img.huffingtonpost.com/asset/5b818c7c2000002c0034b2c5.jpeg?cache=jZEPUdaDtK&ops=1200_630",
+      "publishedAt": "20180826T00:03:43Z"
+    },
+    {
+      "source": {
+        "id": "thewashingtonpost",
+        "name": "The Washington Post"
+      },
+      "author": "https://www.facebook.com/dafahrenthold/, https://www.facebook.com/PostRoz",
+      "title": "'He can't get rid of any of this': Trump's wall of secrecy erodes amid growing legal challenges",
+      "description": "The president has lashed out at disloyal former aides and “flippers” as details about his business and personal life emerge in court.",
+      "url": "https://www.washingtonpost.com/politics/hecantgetridofanyofthistrumpswallofsecrecyiserodingamidmountinglegalchallenges/2018/08/25/93d417dca7c611e88fac12e98c13528d_story.html",
+      "urlToImage": "https://www.washingtonpost.com/resizer/1G2nlQkgqtAvccOuwyL8H0I3Lq4=/1484x0/arcanglerfishwashpostprodwashpost.s3.amazonaws.com/public/ULQ4J7FIWMI6RJSWSQ7O7K25V4.jpg",
+      "publishedAt": "20180825T23:01:41Z"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nola.com"
+      },
+      "author": "The Washington Post",
+      "title": "They raised $400000 for a homeless man  who said they spent it on vacations, casinos and a BMW",
+      "description": "A sweet story has soured.",
+      "url": "https://www.nola.com/crime/index.ssf/2018/08/they_raised_400000_for_a_homel.html",
+      "urlToImage": "https://image.nola.com/home/nolamedia/width620/img/crime_impact/photo/24809803standard.jpg",
+      "publishedAt": "20180825T22:54:00Z"
+    },
+    {
+      "source": {
+        "id": "thenewyorktimes",
+        "name": "The New York Times"
+      },
+      "author": "http://www.nytimes.com/by/davidgelles",
+      "title": "Inside Elon Musk's Reversal on Taking Tesla Private",
+      "description": "The chief executive decided that rather than being a prayer answered, funding for a buyout would present a host of new troubles, people close to the events say.",
+      "url": "https://www.nytimes.com/2018/08/25/business/elonmuskteslaprivate.html",
+      "urlToImage": "https://static01.nyt.com/images/2018/08/25/business/26tesla/merlin_142658619_b1f393be49dd4cb5bb3331e817008cdffacebookJumbo.jpg",
+      "publishedAt": "20180825T22:20:42Z"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "extends": "airbnb",
+  "globals": {
+    "__DEV__": true,
+    "require": true,
+    "expect": true,
+    "jest": true
+  },
+  "env": {
+    "browser": false,
+    "node": true,
+    "es6": true,
+    "amd": false,
+    "mocha": true,
+    "jasmine": false,
+    "phantomjs": false,
+    "jquery": false,
+    "prototypejs": false,
+    "shelljs": false
+  },
+  "rules": {
+    "import/no-named-as-default": 0,
+    "react/jsx-filename-extension": [
+      1,
+      {
+        "extensions": [
+          ".js",
+          ".jsx"
+        ]
+      }
+    ]
+  }
+}

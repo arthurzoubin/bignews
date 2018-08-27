@@ -1,12 +1,13 @@
-import '../Config'
-import DebugConfig from '../Config/DebugConfig'
-import React, { Component } from 'react'
-import { Provider } from 'react-redux'
-import RootContainer from './RootContainer'
-import createStore from '../Redux'
+import '../Config';
+import React from 'react';
+import { Provider } from 'react-redux';
+import { Root } from 'native-base';
+import DebugConfig from '../Config/DebugConfig';
+import RootContainer from './RootContainer';
+import createStore from '../Redux';
 
 // create our store
-const store = createStore()
+const store = createStore();
 
 /**
  * Provides an entry point into our application.  Both index.ios.js and index.android.js
@@ -17,17 +18,17 @@ const store = createStore()
  *
  * We separate like this to play nice with React Native's hot reloading.
  */
-class App extends Component {
-  render () {
-    return (
-      <Provider store={store}>
-        <RootContainer />
-      </Provider>
-    )
-  }
-}
+const App = () => (
+  <Provider store={store}>
+    <Root>
+      <RootContainer />
+    </Root>
+  </Provider>
+);
 
 // allow reactotron overlay for fast design in dev mode
+/* eslint-disable no-console */
 export default DebugConfig.useReactotron
   ? console.tron.overlay(App)
-  : App
+  : App;
+/* eslint-enable no-console */
